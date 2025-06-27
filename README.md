@@ -25,7 +25,7 @@ A lightweight web-based Expense Tracker to log daily expenses by date, amount, a
 
 ## 🌐 Live Demo
 
-> https://storage.googleapis.com/vita-project-123/VITA%20project123/Index.html
+> https://storage.googleapis.com/vita-project-123/VITA%20project123/Project/Project/VITA%20project123/Index.html
 
 ## 📁 Project Structure
 
