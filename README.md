@@ -8,8 +8,7 @@ A lightweight web-based Expense Tracker to log daily expenses by date, amount, a
 
 - 📆 Track daily expenses by date, amount, and payment method.
 - 📊 Displays expense records in a simple table layout.
-- 💾 Data persistence through Firestore (NoSQL database).
-- ☁️ Fully deployed using GCP services (Cloud Storage, Functions, Firestore, Pub/Sub).
+- ☁️ Fully deployed using GCP services (Cloud Storage, Functions, ).
 
 ---
 
@@ -19,9 +18,8 @@ A lightweight web-based Expense Tracker to log daily expenses by date, amount, a
 |------------|------------------------|
 | Frontend   | HTML, CSS, JavaScript  |
 | Backend    | GCP Cloud Functions    |
-| Database   | GCP Firestore (NoSQL)  |
 | Hosting    | GCP Cloud Storage      |
-| Messaging  | GCP Pub/Sub            |
+
 
 ---
 
